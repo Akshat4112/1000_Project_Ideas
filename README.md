@@ -4,15 +4,6 @@
  Mega List of practical projects that any one can solve in any programming language!
 
 ---
- 
-[Contributing](https://github.com/akshat4112/1000_Project_Ideas/blob/master/CONTRIBUTING.md)
-============
-See ways of contributing to this repo. You can contribute solutions (will be published in this repo) to existing problems, add new projects or remove existing ones. Make sure you follow all instructions properly.
-
-[Solutions](https://github.com/akshat4112/Project_Solutions/blob/master/README.md)
-==========
-
-You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/akshat4112/Project_Solutions).
 
 Before committing make sure you follow all the instructions properly.
 
@@ -59,7 +50,7 @@ Before committing make sure you follow all the instructions properly.
  
 - **Intranet File Search Engine**:
 
-- **A Social Code Sharing Site**: Build a user-driven application with much more interactivity and some social-style featuresóspecifically, a community-based repository of useful, reusable code.Something like Django snippets. This project can be easily done in Django (web framework).
+- **A Social Code Sharing Site**: Build a user-driven application with much more interactivity and some social-style features‚Äîspecifically, a community-based repository of useful, reusable code.Something like Django snippets. This project can be easily done in Django (web framework).
 
 - **Highly Confidential Security System**:Develop an application for storing file, images , audio , video ,etc. in a secure way. Use an advance and almost non- crack-able cipher(Blowfish, AES, etc.) to encrypt data(text data & media-file) before caching them in a password protected locker.
 
@@ -69,167 +60,167 @@ Before committing make sure you follow all the instructions properly.
 
 - **Classifier**: Most of the existing classifiers  are not quite accurate. Either read some paper or modify the existing algorithm or propose a new algorithm for classification. Develop a classifier and prove that your classifier is more efficient than existing one.
 
-- **RSS Feed Creator** ñ A program which can read in text from other sources and put it in RSS or Atom news format for syndication.
+- **RSS Feed Creator** ‚Äì A program which can read in text from other sources and put it in RSS or Atom news format for syndication.
 
-- **Post it Notes Program** ñ A program where you can add text reminders and post them. You can have the program also add popup reminders.
+- **Post it Notes Program** ‚Äì A program where you can add text reminders and post them. You can have the program also add popup reminders.
 
-- **Quote Tracker (market symbols etc)** ñ A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked and the program can show green up and red down arrows to show which direction the stock value has moved.
+- **Quote Tracker (market symbols etc)** ‚Äì A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked and the program can show green up and red down arrows to show which direction the stock value has moved.
 
-- **Guestbook / Journal** ñ A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box.
+- **Guestbook / Journal** ‚Äì A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box.
 
-- **News Ticker and Game Scores** ñ A program which sits on your desktop and aggregates news and game scores from various sources on the net. It then scrolls them across the screen on regular intervals.
+- **News Ticker and Game Scores** ‚Äì A program which sits on your desktop and aggregates news and game scores from various sources on the net. It then scrolls them across the screen on regular intervals.
 
-- **Fortune Teller (Horoscope)** ñ A program that checks your horoscope on various astrology sites and puts them together for you each day.
+- **Fortune Teller (Horoscope)** ‚Äì A program that checks your horoscope on various astrology sites and puts them together for you each day.
 
-- **Vigenere / Vernam / Caesar Ciphers** ñ Functions for encrypting and decrypting data messages. Then send them to a friend.
+- **Vigenere / Vernam / Caesar Ciphers** ‚Äì Functions for encrypting and decrypting data messages. Then send them to a friend.
 
-- **Random Gift Suggestions** ñ Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one and perhaps places you can get it.
+- **Random Gift Suggestions** ‚Äì Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one and perhaps places you can get it.
 
-- **Text to HTML Generator** ñ Converts text files into web HTML files and stylizes them. Great for making online documentation of standard text documentation.
+- **Text to HTML Generator** ‚Äì Converts text files into web HTML files and stylizes them. Great for making online documentation of standard text documentation.
 
-- **CD Key Generator** ñ Generates a unique key for your applications to use based on some arbitrary algorithm that you can specify. Great for software developers looking to make shareware that can be activated.
+- **CD Key Generator** ‚Äì Generates a unique key for your applications to use based on some arbitrary algorithm that you can specify. Great for software developers looking to make shareware that can be activated.
 
-- **Regex Query Tool** ñ A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
+- **Regex Query Tool** ‚Äì A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 
-- **FTP Program** ñ A file transfer program which can transfer files back and forth from a remote web sever.
+- **FTP Program** ‚Äì A file transfer program which can transfer files back and forth from a remote web sever.
 
-- **Get Atomic Time from Internet Clock** ñ This program will get the true atomic time from an atomic time clock on the Internet. There are various clocks across the world. Do a search for a list of them.
+- **Get Atomic Time from Internet Clock** ‚Äì This program will get the true atomic time from an atomic time clock on the Internet. There are various clocks across the world. Do a search for a list of them.
 
-- **Chat Application (IRC or MSN Style)** ñ Create a chat application that can create simple chat rooms like on Internet Relay Chat (IRC) or a more direct chatting style like MSN. For added complexity, create your own protocol to facilitate this chatting.
+- **Chat Application (IRC or MSN Style)** ‚Äì Create a chat application that can create simple chat rooms like on Internet Relay Chat (IRC) or a more direct chatting style like MSN. For added complexity, create your own protocol to facilitate this chatting.
 
-- **Fetch Current Weather** ñ Get the current weather for a given zip/postal code. 
+- **Fetch Current Weather** ‚Äì Get the current weather for a given zip/postal code. 
 
-- **P2P File Sharing App** ñ Create a program like LimeWire, FrostWire, Bearshare, or a torrent style application.
+- **P2P File Sharing App** ‚Äì Create a program like LimeWire, FrostWire, Bearshare, or a torrent style application.
 
-- **Port Scanner** ñ Enter an IP address and a port range where the program will then attempt to find open ports on the given computer by connecting to each of them. On any successful connections mark the port as open.
+- **Port Scanner** ‚Äì Enter an IP address and a port range where the program will then attempt to find open ports on the given computer by connecting to each of them. On any successful connections mark the port as open.
 
-- **Mail Checker (POP3 / IMAP)** ñ The user enters various account information include web server and IP, protocol type (POP3 or IMAP) and the application will check for email on several accounts at a given interval.
+- **Mail Checker (POP3 / IMAP)** ‚Äì The user enters various account information include web server and IP, protocol type (POP3 or IMAP) and the application will check for email on several accounts at a given interval.
 
-- **Packet Sniffer** ñ A utility program that will read packets coming in and out of the machine along with related information like destination and payload size.
+- **Packet Sniffer** ‚Äì A utility program that will read packets coming in and out of the machine along with related information like destination and payload size.
 
-- **Country from IP Lookup** ñ Enter an IP address and find the country that IP is registered in.
+- **Country from IP Lookup** ‚Äì Enter an IP address and find the country that IP is registered in.
 
-- **Whois Search Tool** ñ Enter an IP or host address and have it look it up through whois and return the results to you.
+- **Whois Search Tool** ‚Äì Enter an IP or host address and have it look it up through whois and return the results to you.
 
-- **Zip / Postal Code Lookup** ñ Enter a zip or postal code and have it return which city/cities that are in that zip code.
+- **Zip / Postal Code Lookup** ‚Äì Enter a zip or postal code and have it return which city/cities that are in that zip code.
 
-- **Remote Login** ñ Create a remote desktop style application which can see and control the remote computer (given you have permissions). It may require the use of your own private network and a second computer to test with.
+- **Remote Login** ‚Äì Create a remote desktop style application which can see and control the remote computer (given you have permissions). It may require the use of your own private network and a second computer to test with.
 
-- **Site Checker with Time Scheduling** ñ An application that attempts to connect to a website or server every so many minutes or a given time and check if it is up. If it is down, it will notify you by email or by posting a notice on screen.
+- **Site Checker with Time Scheduling** ‚Äì An application that attempts to connect to a website or server every so many minutes or a given time and check if it is up. If it is down, it will notify you by email or by posting a notice on screen.
 
-- **Small Web Server** ñ A simple web server that can serve HTML files that contain Javascript and other forms of non-code executing code. Added complexity would be to try and implement streaming video, create a server-side language, or serve up other stream types.
+- **Small Web Server** ‚Äì A simple web server that can serve HTML files that contain Javascript and other forms of non-code executing code. Added complexity would be to try and implement streaming video, create a server-side language, or serve up other stream types.
 
-- **Web Bot** ñ An automated program which carries out tasks on the web including checking websites, page scraping, and summarization of data or web posting.
+- **Web Bot** ‚Äì An automated program which carries out tasks on the web including checking websites, page scraping, and summarization of data or web posting.
 
-- **Product Inventory Project** ñ Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an inventory class which keeps track of various products and can sum up the inventory value.
+- **Product Inventory Project** ‚Äì Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an inventory class which keeps track of various products and can sum up the inventory value.
 
-- **Movie Store** ñ Manage video rentals and controls when videos are checked out, due to return, overdue fees and for added complexity create a summary of those accounts which are overdue for contact.
+- **Movie Store** ‚Äì Manage video rentals and controls when videos are checked out, due to return, overdue fees and for added complexity create a summary of those accounts which are overdue for contact.
 
-- **Airline / Hotel Reservation System** ñ Create a reservation system which books airline seats or hotel rooms. It charges various rates for particular sections of the plane or hotel. Example, first class is going to cost more than coach. Hotel rooms have penthouse suites which cost more. Keep track of when rooms will be available and can be scheduled.
+- **Airline / Hotel Reservation System** ‚Äì Create a reservation system which books airline seats or hotel rooms. It charges various rates for particular sections of the plane or hotel. Example, first class is going to cost more than coach. Hotel rooms have penthouse suites which cost more. Keep track of when rooms will be available and can be scheduled.
 
-- **Student Grade Book Application** ñ Keep track of students (with a student class that has their name, average, and scores) in a class and their grades. Assign their scores on tests and assignments to the students and figure out their average and grade for the class. For added complexity put the students on a bell curve.
+- **Student Grade Book Application** ‚Äì Keep track of students (with a student class that has their name, average, and scores) in a class and their grades. Assign their scores on tests and assignments to the students and figure out their average and grade for the class. For added complexity put the students on a bell curve.
 
-- **Bank Account Manager** - Create a class called ìAccountî which will be an abstract class for three other classes called ìCheckingAccountî, ìSavingsAccountî and ìBusinessAccountî. Manage credits and debits from these accounts through an ATM style program.
+- **Bank Account Manager** - Create a class called ‚ÄúAccount‚Äù which will be an abstract class for three other classes called ‚ÄúCheckingAccount‚Äù, ‚ÄúSavingsAccount‚Äù and ‚ÄúBusinessAccount‚Äù. Manage credits and debits from these accounts through an ATM style program.
 
-- **Library Catalog** ñ Create a book class with a title, page count, ISBN and whether or not it is checked out or not. Manage a collection of various books and allow the user to check out books or return books. For added complexity generate a report of those books overdue and any fees. Also allow users to put books on reserve.
+- **Library Catalog** ‚Äì Create a book class with a title, page count, ISBN and whether or not it is checked out or not. Manage a collection of various books and allow the user to check out books or return books. For added complexity generate a report of those books overdue and any fees. Also allow users to put books on reserve.
 
-- **Create A Progress Bar for Downloads** ñ Create a progress bar for applications that can keep track of a download in progress. The progress bar will be on a separate thread and will communicate with the main thread using delegates.
+- **Create A Progress Bar for Downloads** ‚Äì Create a progress bar for applications that can keep track of a download in progress. The progress bar will be on a separate thread and will communicate with the main thread using delegates.
 
-- **Download Manager** ñ Allow your program to download various files and each one is downloading in the background on a separate thread. The main thread will keep track of the other threadís progress and notify the user when downloads are completed.
+- **Download Manager** ‚Äì Allow your program to download various files and each one is downloading in the background on a separate thread. The main thread will keep track of the other thread‚Äôs progress and notify the user when downloads are completed.
 
-- **Chat Application (remoting style)** ñ Create a chat application which allows you to connect directly to another computer by their IP through the use of remoting and allow your ìserverî application handle multiple incoming connections.
+- **Chat Application (remoting style)** ‚Äì Create a chat application which allows you to connect directly to another computer by their IP through the use of remoting and allow your ‚Äúserver‚Äù application handle multiple incoming connections.
 
-- **Bulk Thumbnail Creator** ñ Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails etc.
+- **Bulk Thumbnail Creator** ‚Äì Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails etc.
 
-- **WYSIWG (What you see is what you get) Editor** ñ Create an editor online which allows people to move around elements, create tables, write text, set colors etc for web pages without having to know HTML. Think Dreamweaver or FrontPage but for online sites. If you need an example check out the DIC page used to create a post.
+- **WYSIWG (What you see is what you get) Editor** ‚Äì Create an editor online which allows people to move around elements, create tables, write text, set colors etc for web pages without having to know HTML. Think Dreamweaver or FrontPage but for online sites. If you need an example check out the DIC page used to create a post.
 
-- **Web Browser with Tabs** ñ Create a small web browser that allows you to navigate the web and contains tabs which can be used to navigate to multiple web pages at once. For simplicity donít worry about executing Javascript or other client side code.
+- **Web Browser with Tabs** ‚Äì Create a small web browser that allows you to navigate the web and contains tabs which can be used to navigate to multiple web pages at once. For simplicity don‚Äôt worry about executing Javascript or other client side code.
 
-- **Page Scraper** ñ Create an application which connects to a site and pulls out all links, or images, and saves them to a list. For added complexity, organize the indexed content and donít allow duplicates. Have it put the results into an easily searchable index file.
+- **Page Scraper** ‚Äì Create an application which connects to a site and pulls out all links, or images, and saves them to a list. For added complexity, organize the indexed content and don‚Äôt allow duplicates. Have it put the results into an easily searchable index file.
 
-- **File Downloader** ñ An application which can download various objects on a page including video streams or all files on a page. Great for pages with a lot of download links.
+- **File Downloader** ‚Äì An application which can download various objects on a page including video streams or all files on a page. Great for pages with a lot of download links.
 
-- **Telnet Application** ñ Create an application which can telnet into servers across the internet and run basic commands. 
+- **Telnet Application** ‚Äì Create an application which can telnet into servers across the internet and run basic commands. 
 
-- **Online White Board** ñ Create an application which allows you and friends to collaborate on a white board online. Draw pictures, write notes and use various colors to flesh out ideas for projects. For added complexity try building in picture tubes.
+- **Online White Board** ‚Äì Create an application which allows you and friends to collaborate on a white board online. Draw pictures, write notes and use various colors to flesh out ideas for projects. For added complexity try building in picture tubes.
 
-- **Bandwidth Monitor** ñ A small utility program that tracks how much data you have uploaded and downloaded from the net during the course of your current online session. See if you can find out what periods of the day you use more and less and generate a report or graph that shows it.
+- **Bandwidth Monitor** ‚Äì A small utility program that tracks how much data you have uploaded and downloaded from the net during the course of your current online session. See if you can find out what periods of the day you use more and less and generate a report or graph that shows it.
 
-- **Bookmark Collector and Sorter** ñ An application that you can put online for people to upload bookmarks to, have it sort them, remove duplicates and export the entire list as a Firefox/IE/Safari bookmark file. For added complexity see if you can group the bookmark items into various folders.
+- **Bookmark Collector and Sorter** ‚Äì An application that you can put online for people to upload bookmarks to, have it sort them, remove duplicates and export the entire list as a Firefox/IE/Safari bookmark file. For added complexity see if you can group the bookmark items into various folders.
 
-- **Password Safe** ñ A program which keeps track of passwords for sites or applications and encrypts them with a key so that no one can read them.
+- **Password Safe** ‚Äì A program which keeps track of passwords for sites or applications and encrypts them with a key so that no one can read them.
 
-- **Media Player Widget for iGoogle** ñ Create an iGoogle gadget which can play various song lists from your computer as well as share one song daily. Perhaps let people look up which songs you have listened to lately.
+- **Media Player Widget for iGoogle** ‚Äì Create an iGoogle gadget which can play various song lists from your computer as well as share one song daily. Perhaps let people look up which songs you have listened to lately.
 
-- **Text Based Game Like Utopia** ñ Create a simple text based RPG like Utopia where you can create a civilization, gather resources, forge alliances, cast spells and more on a turn based system. See if you can dominate the kingdom.
+- **Text Based Game Like Utopia** ‚Äì Create a simple text based RPG like Utopia where you can create a civilization, gather resources, forge alliances, cast spells and more on a turn based system. See if you can dominate the kingdom.
 
-- **Scheduled Auto Login and Action** ñ Make an application which logs into a given site on a schedule and invokes a certain action and then logs out. This can be useful for checking web mail, posting regular content, or getting info for other applications and saving it to your computer.
+- **Scheduled Auto Login and Action** ‚Äì Make an application which logs into a given site on a schedule and invokes a certain action and then logs out. This can be useful for checking web mail, posting regular content, or getting info for other applications and saving it to your computer.
 
-- **E-Card Generator** ñ Make a site that allows people to generate their own little e-cards and send them to other people. Can use flash or not. Use a picture library and perhaps insightful mottos or quotes.
+- **E-Card Generator** ‚Äì Make a site that allows people to generate their own little e-cards and send them to other people. Can use flash or not. Use a picture library and perhaps insightful mottos or quotes.
 
-- **Content Management System** ñ Create a content management system (CMS) like Joomla, Drupal, PHP Nuke etc. Start small and allow for the addition of modules/addons later.
+- **Content Management System** ‚Äì Create a content management system (CMS) like Joomla, Drupal, PHP Nuke etc. Start small and allow for the addition of modules/addons later.
 
-- **Template Maker** ñ Make a site or application which allows the user to enter in various color codes, elements, dimensions and constructs a template file for a particular application like PHPBB, Invision Board, MySpace, Bebo, etc.
+- **Template Maker** ‚Äì Make a site or application which allows the user to enter in various color codes, elements, dimensions and constructs a template file for a particular application like PHPBB, Invision Board, MySpace, Bebo, etc.
 
-- **CAPTCHA Maker** ñ Ever see those images with letters a numbers when you signup for a service and then asks you to enter what you see? It keeps web bots from automatically signing up and spamming. Try creating one yourself for online forms. If you use PHP, take a look at the image functions of GD.
+- **CAPTCHA Maker** ‚Äì Ever see those images with letters a numbers when you signup for a service and then asks you to enter what you see? It keeps web bots from automatically signing up and spamming. Try creating one yourself for online forms. If you use PHP, take a look at the image functions of GD.
 
-- **Quiz Maker** ñ Make an application which takes various questions form a file, picked randomly, and puts together a quiz for students. Each quiz can be different and then reads a key to grade the quizzes.
+- **Quiz Maker** ‚Äì Make an application which takes various questions form a file, picked randomly, and puts together a quiz for students. Each quiz can be different and then reads a key to grade the quizzes.
 
-- **Quick Launcher** ñ A utility program that allows the user to assign various programs to icons on a toolbar. Then by clicking the buttons they can quickly launch the programs with parameters etc. Much like Windows quick launch.
+- **Quick Launcher** ‚Äì A utility program that allows the user to assign various programs to icons on a toolbar. Then by clicking the buttons they can quickly launch the programs with parameters etc. Much like Windows quick launch.
 
-- **File Explorer** ñ Create your own windows explorer program but with added features, better searching, new icons and other views.
+- **File Explorer** ‚Äì Create your own windows explorer program but with added features, better searching, new icons and other views.
 
-- **Sort File Records Utility** ñ Reads a file of records, sorts them, and then writes them back to the file. Allow the user to choose various sort style and sorting based on a particular field.
+- **Sort File Records Utility** ‚Äì Reads a file of records, sorts them, and then writes them back to the file. Allow the user to choose various sort style and sorting based on a particular field.
 
-- **Add Transactions In File and Find Averages** ñ Read in a file of financial transactions, group them into accounts, add up fields or find averages or apply credits and debits to each account.
+- **Add Transactions In File and Find Averages** ‚Äì Read in a file of financial transactions, group them into accounts, add up fields or find averages or apply credits and debits to each account.
 
-- **Create Zip File Maker** ñ The user enters various files from different directories and maybe even another computer on the network and the program transfers them and zips them up into a zip file. For added complexity, apply actual compression to the files.
+- **Create Zip File Maker** ‚Äì The user enters various files from different directories and maybe even another computer on the network and the program transfers them and zips them up into a zip file. For added complexity, apply actual compression to the files.
 
-- **PDF Generator** ñ An application which can read in a text file, html file or some other file and generates a PDF file out of it. Great for a web based service where the user uploads the file and the program returns a PDF of the file.
+- **PDF Generator** ‚Äì An application which can read in a text file, html file or some other file and generates a PDF file out of it. Great for a web based service where the user uploads the file and the program returns a PDF of the file.
 
-- **Bulk Renamer and Organizer** ñ This program will take a series of files and renames them with a specific filename filter entered by the user. For instance if the user enters myimage###.jpg it will rename all files with a ìminimumî of three numbers like ìmyimage001.jpgî, ìmyimage145.jpgî or even ìmyimage1987.jpgî since 1987 has at least three numbers.
+- **Bulk Renamer and Organizer** ‚Äì This program will take a series of files and renames them with a specific filename filter entered by the user. For instance if the user enters myimage###.jpg it will rename all files with a ‚Äúminimum‚Äù of three numbers like ‚Äúmyimage001.jpg‚Äù, ‚Äúmyimage145.jpg‚Äù or even ‚Äúmyimage1987.jpg‚Äù since 1987 has at least three numbers.
 
-- **Mp3 Tagger** ñ Modify and add ID3v1 tags to MP3 files. See if you can also add in the album art into the MP3 fileís header as well as other ID3v2 tags.
+- **Mp3 Tagger** ‚Äì Modify and add ID3v1 tags to MP3 files. See if you can also add in the album art into the MP3 file‚Äôs header as well as other ID3v2 tags.
 
-- **Log File Maker** ñ Make an application which logs various statistics in response to given events. This can be something that logs what an application does, what the system is doing, when something like a file changes etc.
+- **Log File Maker** ‚Äì Make an application which logs various statistics in response to given events. This can be something that logs what an application does, what the system is doing, when something like a file changes etc.
 
-- **Excel Spreadsheet Exporter** ñ Create an online application which can read in a file and create an Excel Spreadsheet to export back. This can be through CVS or other file formats. For added complexity, see if you can create formula fields as well.
+- **Excel Spreadsheet Exporter** ‚Äì Create an online application which can read in a file and create an Excel Spreadsheet to export back. This can be through CVS or other file formats. For added complexity, see if you can create formula fields as well.
 
-- **RPG Character Stat Creator** ñ Make a program which will randomly create a characterís stats based on several rules set forth by the user. Have it generate a class, gender, strength/magic/dexterity points, and extra abilities or trades. Have it save it to a file which can then be printed out by a dungeon master.
+- **RPG Character Stat Creator** ‚Äì Make a program which will randomly create a character‚Äôs stats based on several rules set forth by the user. Have it generate a class, gender, strength/magic/dexterity points, and extra abilities or trades. Have it save it to a file which can then be printed out by a dungeon master.
 
-- **Image Map Generator** ñ Image maps are those images on the web that have multiple hover points that link to different pages. Such images may include maps or splash pages. See if you can make one where the user specifies an image, clicks hotspots in the image and specify links. It will then generate the HTML code to a file that the user can then copy and paste into their website to make the image map.
+- **Image Map Generator** ‚Äì Image maps are those images on the web that have multiple hover points that link to different pages. Such images may include maps or splash pages. See if you can make one where the user specifies an image, clicks hotspots in the image and specify links. It will then generate the HTML code to a file that the user can then copy and paste into their website to make the image map.
 
-- **File Copy Utility** ñ Create a utility that can do bulk file copying and backups of other files.
+- **File Copy Utility** ‚Äì Create a utility that can do bulk file copying and backups of other files.
 
-- **Code Snippet Manager** ñ Another utility program that allows coders to put in functions, classes or other tidbits to save for use later. Organized by the type of snippet or language the coder can quickly look up code. For extra practice try adding syntax highlighting based on the language.
+- **Code Snippet Manager** ‚Äì Another utility program that allows coders to put in functions, classes or other tidbits to save for use later. Organized by the type of snippet or language the coder can quickly look up code. For extra practice try adding syntax highlighting based on the language.
 
-- **Versioning Manager** ñ Create your own versioning system for code files. Users are forced to check out items and lock items during reading and writing so that a group of programmers are not accidentally overwriting code files on one another.
+- **Versioning Manager** ‚Äì Create your own versioning system for code files. Users are forced to check out items and lock items during reading and writing so that a group of programmers are not accidentally overwriting code files on one another.
 
-- **SQL Query Analyzer** ñ A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
+- **SQL Query Analyzer** ‚Äì A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
 
-- **Remote SQL Tool** ñ A utility that can execute queries on remote servers from your local computer across the Internet. It should take in a remote host, user name and password, run the query and return the results.
+- **Remote SQL Tool** ‚Äì A utility that can execute queries on remote servers from your local computer across the Internet. It should take in a remote host, user name and password, run the query and return the results.
 
-- **Baseball / Other Card Collector** ñ Create an online application for keeping track of a collection of cards. Let the user enter all cards in a set, check off which ones they have, which ones they need and generate lists of cards they are looking for. For extra complexity, have it sum up sets and generate reports on how close they are of completing sets or the current value of a set.
+- **Baseball / Other Card Collector** ‚Äì Create an online application for keeping track of a collection of cards. Let the user enter all cards in a set, check off which ones they have, which ones they need and generate lists of cards they are looking for. For extra complexity, have it sum up sets and generate reports on how close they are of completing sets or the current value of a set.
 
-- **Report Generator** ñ Create a utility that generates a report based on some tables in a database. Generates a sales reports based on the order/order details tables or sums up the days current database activity.
+- **Report Generator** ‚Äì Create a utility that generates a report based on some tables in a database. Generates a sales reports based on the order/order details tables or sums up the days current database activity.
 
-- **Database Backup Script Maker** ñ A program which reads a databaseís objects, relationships, records and stored procedures and creates a .sql file which can then be imported into another database or kept as a backup file to rebuild the database with.
+- **Database Backup Script Maker** ‚Äì A program which reads a database‚Äôs objects, relationships, records and stored procedures and creates a .sql file which can then be imported into another database or kept as a backup file to rebuild the database with.
 
-- **Event Scheduler and Calendar** ñ Make an application which allows the user to enter a date and time of an event, event notes and then schedule those events on a calendar. The user can then browse the calendar or search the calendar for specific events. For added complexity, allow the application to create reoccurrence events that reoccur every day, week, month, year etc.
+- **Event Scheduler and Calendar** ‚Äì Make an application which allows the user to enter a date and time of an event, event notes and then schedule those events on a calendar. The user can then browse the calendar or search the calendar for specific events. For added complexity, allow the application to create reoccurrence events that reoccur every day, week, month, year etc.
 
-- **Budget Tracker** ñ Write an application that keeps track of a householdís budget. The user can add expenses, income, and recurring costs to find out how much they are saving or losing over a period of time. For added complexity allow the user to specify a date range and see the net flow of money in and out of the house budget for that time period.
+- **Budget Tracker** ‚Äì Write an application that keeps track of a household‚Äôs budget. The user can add expenses, income, and recurring costs to find out how much they are saving or losing over a period of time. For added complexity allow the user to specify a date range and see the net flow of money in and out of the house budget for that time period.
 
-- **Address Book** ñ Keep track of various contacts, their numbers, emails and little notes about them like a Rolodex in the database. For extra complexity, allow the user to connect to a website publish their address book based on specific options the user has set.
+- **Address Book** ‚Äì Keep track of various contacts, their numbers, emails and little notes about them like a Rolodex in the database. For extra complexity, allow the user to connect to a website publish their address book based on specific options the user has set.
 
-- **TV Show Tracker** ñ Got a favorite show you donít want to miss? Donít have a PVR or want to be able to find the show to then PVR it later? Make an application which can search various online TV Guide sites, locate the shows/times/channels and add them to a database application. The database/website then can send you email reminders that a show is about to start and which channel it will be on.
+- **TV Show Tracker** ‚Äì Got a favorite show you don‚Äôt want to miss? Don‚Äôt have a PVR or want to be able to find the show to then PVR it later? Make an application which can search various online TV Guide sites, locate the shows/times/channels and add them to a database application. The database/website then can send you email reminders that a show is about to start and which channel it will be on.
 
-- **Travel Planner System** ñ Make a system that allows users to put together their own little travel itinerary and keep track of the airline / hotel arrangements, points of interest, budget and schedule. 
+- **Travel Planner System** ‚Äì Make a system that allows users to put together their own little travel itinerary and keep track of the airline / hotel arrangements, points of interest, budget and schedule. 
 
-- **Entity Relationship Diagram (ERD) Creator** ñ A program that allows the user to put together ERD diagram and save it or have it generate some basic SQL syntax to give them a jump start.
+- **Entity Relationship Diagram (ERD) Creator** ‚Äì A program that allows the user to put together ERD diagram and save it or have it generate some basic SQL syntax to give them a jump start.
 
-- **Database Translation (MySQL <-> SQL Server)** ñ A simple utility that reads in from one database and constructs SQL compliant with another database. Then saves that to another database. One popular transition would be to and from MySQL server for databases like SQL Server and Oracle.
+- **Database Translation (MySQL <-> SQL Server)** ‚Äì A simple utility that reads in from one database and constructs SQL compliant with another database. Then saves that to another database. One popular transition would be to and from MySQL server for databases like SQL Server and Oracle.
 
-- **Web Board (Forum)** ñ Create a forum for you and your buddies to post, administer and share thoughts and ideas.
+- **Web Board (Forum)** ‚Äì Create a forum for you and your buddies to post, administer and share thoughts and ideas.
 
 
 Graphics and Multimedia
@@ -237,39 +228,39 @@ Graphics and Multimedia
 
 
 
-**Slide Show** ñ Make an application that shows various pictures in a slide show format. For extra complexity try adding various effects like fade in/out, star wipe and window blinds transitions.
+**Slide Show** ‚Äì Make an application that shows various pictures in a slide show format. For extra complexity try adding various effects like fade in/out, star wipe and window blinds transitions.
 
-**Mind Mapper** ñ Allow the user to put down ideas and quickly brainstorm how they are related into a mind map. The goal here is speed so let the user quickly write in an idea and drag it around in a visual map to show relationships.
+**Mind Mapper** ‚Äì Allow the user to put down ideas and quickly brainstorm how they are related into a mind map. The goal here is speed so let the user quickly write in an idea and drag it around in a visual map to show relationships.
 
-**Import Picture and Save as Grayscale** ñ A utility that sucks the color right out of an image and saves it. You could add more including adjusting contrast, colorizing and more for added complexity.
+**Import Picture and Save as Grayscale** ‚Äì A utility that sucks the color right out of an image and saves it. You could add more including adjusting contrast, colorizing and more for added complexity.
 
-**Stream Video from Online** ñ Try to create your own online streaming video player.
+**Stream Video from Online** ‚Äì Try to create your own online streaming video player.
 
-**Mp3 Player (and Other Formats)** ñ A simple program for playing your favorite music files. For extra complexity see if you can add in playlists and an equalizer.
+**Mp3 Player (and Other Formats)** ‚Äì A simple program for playing your favorite music files. For extra complexity see if you can add in playlists and an equalizer.
 
-**Bulk Picture Manipulator** ñ This program will take in a directory of pictures and apply a certain effect to them whether it be reducing color count, changing its format, or alter file attributes. For something extra try to see if you can also create a system to tag them. 
+**Bulk Picture Manipulator** ‚Äì This program will take in a directory of pictures and apply a certain effect to them whether it be reducing color count, changing its format, or alter file attributes. For something extra try to see if you can also create a system to tag them. 
 
-**CD Burning App** ñ Create a utility that simply burns data to a CD.
+**CD Burning App** ‚Äì Create a utility that simply burns data to a CD.
 
-**YouTube Downloader** ñ A program which can download videos to your hard drive from youtube.com. Save the files in various formats including FLV and AVI.
+**YouTube Downloader** ‚Äì A program which can download videos to your hard drive from youtube.com. Save the files in various formats including FLV and AVI.
 
-**Wallpaper Manager** ñ Make a program which keeps track of your favorite wallpapers, changes them regularly and maybe even re-sizes them for your resolution (aka tiles one and stretches another)
+**Wallpaper Manager** ‚Äì Make a program which keeps track of your favorite wallpapers, changes them regularly and maybe even re-sizes them for your resolution (aka tiles one and stretches another)
 
-**Screen Capture Program** ñ Make a utility that will simply capture a frame from your web cam. For added complexity see if you can also build in emailing functionality.
+**Screen Capture Program** ‚Äì Make a utility that will simply capture a frame from your web cam. For added complexity see if you can also build in emailing functionality.
 
-**Image Browser** ñ This application is used to view various image files on your computer from PNG, GIF, JPG to BMP, TIFF etc.
+**Image Browser** ‚Äì This application is used to view various image files on your computer from PNG, GIF, JPG to BMP, TIFF etc.
 
-**Traffic Light Application** ñ See if you can make your own street light application and then put it into an intersection scenario. Donít let any cars run the lights and crash into one another!
+**Traffic Light Application** ‚Äì See if you can make your own street light application and then put it into an intersection scenario. Don‚Äôt let any cars run the lights and crash into one another!
 
-**MP3 to Wav Converter** ñ MP3 is essentially compressed wav format. See if you can translate it back into wav so that some other sound editing programs can work with the wav file itself. Keep in mind that 1 MB of MP3 is relative 10MB wav.
+**MP3 to Wav Converter** ‚Äì MP3 is essentially compressed wav format. See if you can translate it back into wav so that some other sound editing programs can work with the wav file itself. Keep in mind that 1 MB of MP3 is relative 10MB wav.
 
-**Signature Maker** ñ Ever seen those web board posts where someone has a generated signature made up? See if you can make a program that allows the user to specify a background, text, colors and alignment to make their own signatures or userbars.
+**Signature Maker** ‚Äì Ever seen those web board posts where someone has a generated signature made up? See if you can make a program that allows the user to specify a background, text, colors and alignment to make their own signatures or userbars.
 
-**Screen Saver** ñ Make a screensaver program that will run while your computer sits idle. To make a simple one use some standard pictures and then for added complexity try a 3D object that spins around the screen and bounces off the sides.
+**Screen Saver** ‚Äì Make a screensaver program that will run while your computer sits idle. To make a simple one use some standard pictures and then for added complexity try a 3D object that spins around the screen and bounces off the sides.
 
-**Watermarking Application** ñ Have some pictures you want copyright protected? Add your own logo or text lightly across the background so that no one can simply steal your graphics off your site. Make a program that will add this watermark to the picture.
+**Watermarking Application** ‚Äì Have some pictures you want copyright protected? Add your own logo or text lightly across the background so that no one can simply steal your graphics off your site. Make a program that will add this watermark to the picture.
 
-**Turtle Graphics** ñ This is a common project where you create a floor of 20 x 20 squares. Using various commands you tell a turtle to draw a line on the floor. You have move forward, left or right, lift or drop pen etc. For added complexity, allow the program to read in the list of commands from a file. Do a search online for ìTurtle Graphicsî for more information.
+**Turtle Graphics** ‚Äì This is a common project where you create a floor of 20 x 20 squares. Using various commands you tell a turtle to draw a line on the floor. You have move forward, left or right, lift or drop pen etc. For added complexity, allow the program to read in the list of commands from a file. Do a search online for ‚ÄúTurtle Graphics‚Äù for more information.
 
  
 
@@ -278,17 +269,17 @@ Games
 ------
 
 
-**Battleship** ñ Create two game boards and let each player place a number of war ships. Each player canít see the other personís board. They then take turns firing at one another by guessing one of the board squares. If the square they guess contains part of a ship, it is a hit. Otherwise it is a miss. They sink a ship when all squares containing that particular ship have been uncovered. The player wins when all their opponentsí ships have been sunk.
+**Battleship** ‚Äì Create two game boards and let each player place a number of war ships. Each player can‚Äôt see the other person‚Äôs board. They then take turns firing at one another by guessing one of the board squares. If the square they guess contains part of a ship, it is a hit. Otherwise it is a miss. They sink a ship when all squares containing that particular ship have been uncovered. The player wins when all their opponents‚Äô ships have been sunk.
 
-**Chess and Checkers** ñ Simply put a game of chess or checkers. Try to make it playable online and if you can use a graphical user interface that can also undo or redo a step as well as keep a history of moves for replay.
+**Chess and Checkers** ‚Äì Simply put a game of chess or checkers. Try to make it playable online and if you can use a graphical user interface that can also undo or redo a step as well as keep a history of moves for replay.
 
-**Hangman** ñ Randomly select a word from a file, have the user guess characters in the word. For each character they guess that is not in the word, have it draw another part of a man hanging in a noose. If the picture is completed before they guess all the characters, they lose.
+**Hangman** ‚Äì Randomly select a word from a file, have the user guess characters in the word. For each character they guess that is not in the word, have it draw another part of a man hanging in a noose. If the picture is completed before they guess all the characters, they lose.
 
-**Crossword Puzzle** ñ Create a crossword puzzle which links words together on common letters. Provide a list of clues for each word and let the user enter fill in the words until the entire crossword is filled in.
+**Crossword Puzzle** ‚Äì Create a crossword puzzle which links words together on common letters. Provide a list of clues for each word and let the user enter fill in the words until the entire crossword is filled in.
 
-**Frogger** ñ Get your frog across the river and lanes of traffic by either jumping on logs and lily pads rushing by at different speeds or avoid the automobiles which are also moving at various speeds. Based on the old arcade game..
+**Frogger** ‚Äì Get your frog across the river and lanes of traffic by either jumping on logs and lily pads rushing by at different speeds or avoid the automobiles which are also moving at various speeds. Based on the old arcade game..
 
-**Tetris** ñ  Tile-matching puzzle video game. Arrange incoming tiles such that a row is formed, which once formed disappears. Get points by making as many rows as possible. Introduce levels.
+**Tetris** ‚Äì  Tile-matching puzzle video game. Arrange incoming tiles such that a row is formed, which once formed disappears. Get points by making as many rows as possible. Introduce levels.
 
 
 Research Projects
@@ -459,9 +450,9 @@ Research Projects
 
 - Payment Extraction Tool - (SAP/ABAP)
 
-- Share Travel ñ Web Application - .NET/JAVA/PHP
+- Share Travel ‚Äì Web Application - .NET/JAVA/PHP
 
-- Crypt Analysis Between Different Languages ñ (PHYTHAIN)
+- Crypt Analysis Between Different Languages ‚Äì (PHYTHAIN)
 
 - Multiplayer 3D Strategic Game
 
@@ -639,7 +630,7 @@ Research Projects
 - Trade Service Engine
 - SMTP Mail Server
 - Virtual Shopping
-- Value card ñ Smart card based Loyalty
+- Value card ‚Äì Smart card based Loyalty
 - Universal Web Based File Coordinator
 - UA Portal
 - Trackerz
