@@ -1,4 +1,4 @@
-# 1000_Project_Ideas
+# 1000_Project_Ideas 
 <br>
 # 1000_Projects
  Mega List of practical projects that any one can solve in any programming language!
@@ -660,3 +660,4 @@ Research Projects
 - Multi-Tasking Sockets
 - Network Monitoring for Remote Task Executor
 - Audio Manager
+- Audio Analyser
