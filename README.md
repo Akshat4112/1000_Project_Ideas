@@ -14,6 +14,8 @@ Before committing make sure you follow all the instructions properly.
 
 - **TOR**: TOR is a very famous applications used in college/university by students for tunneling websites. Most of the college internet providers have even blocked TOR. So, build similar  application for tunneling and defend yourself against network surveillance and traffic analysis. 
 
+- **Reviews Collector**: Collecting reviews of business from google api for any business which has its page available on google.
+
 - **Chat Application using AJAX**
 
 - **Lan Audio(Voice) Chat**: Can be easily implemented in Java with Java-net and Java Sample Audio API.
